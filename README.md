@@ -3,13 +3,13 @@
 <p align="center">
     <a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning/commits/master">
     <img src="https://img.shields.io/github/last-commit/DamonCharlesRoberts/ANES-2020-Cleaning.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
+         alt="GitHub last commit"></a>
     <a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning/issues">
     <img src="https://img.shields.io/github/issues-raw/DamonCharlesRoberts/ANES-2020-Cleaning.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
+         alt="GitHub issues"></a>
     <a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/DamonCharlesRoberts/ANES-2020-Cleaning.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
+         alt="GitHub pull requests"></a>
 </p>
 
 ---
