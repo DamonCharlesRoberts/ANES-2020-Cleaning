@@ -12,7 +12,7 @@
          alt="GitHub pull requests">
 </p>
 
-
+---
 This dataset is huge with about 470 variables. I wrote files with functions to handle common and basic cleaning of the variables.
 
 The key document that you should be concerned with is the get-clean-boi.R file where it sources the functions from the other files where you can then run those functions.
