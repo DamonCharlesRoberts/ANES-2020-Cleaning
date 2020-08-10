@@ -1,4 +1,16 @@
-# Cleaning the American National Elections Study 2020 Exploratory Dataset
+<h4 align="center">American National Election 2020 Exploratory Dataset Cleaning.</h4>
+
+<p align="center">
+    <a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning/commits/master">
+    <img src="https://img.shields.io/github/last-commit/DamonCharlesRoberts/ANES-2020-Cleaning.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub last commit">
+    <a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning/issues">
+    <img src="https://img.shields.io/github/issues-raw/DamonCharlesRoberts/ANES-2020-Cleaning.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub issues">
+    <a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/DamonCharlesRoberts/ANES-2020-Cleaning.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub pull requests">
+</p>
 
 
 This dataset is huge with about 470 variables. I wrote files with functions to handle common and basic cleaning of the variables.
